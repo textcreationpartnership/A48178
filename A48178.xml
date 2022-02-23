@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend upon the dissolution of the late Parliament, and the calling of a new one together with a list of those that were against making the Prince and Princess of Orange, King and Queen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48178</idno>
+            <idno type="STC">Wing L1656</idno>
+            <idno type="STC">ESTC R36358</idno>
+            <idno type="EEBO-CITATION">15667514</idno>
+            <idno type="OCLC">ocm 15667514</idno>
+            <idno type="VID">104331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend upon the dissolution of the late Parliament, and the calling of a new one together with a list of those that were against making the Prince and Princess of Orange, King and Queen.</title>
+                  <author>Leti, Gregorio, 1630-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Occasionally attributed to Gregorio Leti.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104331:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>A LETTER to a Friend, upon the Diſſolution of the Late Parliament, and the Calling of a New One. Together with a LIST of thoſe that were againſt making the Prince and Princeſs of <hi>Orange,</hi> King and Queen.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS I do fully acquieſce in the Wiſ<g ref="char:EOLunhyphen"/>dom and Authorny of the King in his diſſolving of the <hi>late Parlia<g ref="char:EOLhyphen"/>ment:</hi> So I'm perfectly perſwa<g ref="char:EOLhyphen"/>ded, that he did it upon motives relating to his own Honour, and to the ſafety and happineſs of his People, and not in ſubſer<g ref="char:EOLhyphen"/>viency to any <hi>Prerogative Deſign,</hi> nor to pleaſe himſelf with an Exerciſe of <hi>Regal Power.</hi> And I will venture to ſay, that no<g ref="char:EOLhyphen"/>thing could have induced him, ſo abruptly, as well as unexpectedly, to have diſmiſſed a Parliament, that firſt advanced him unto, and then by ſo many free and vaſt Contri<g ref="char:EOLhyphen"/>butions, endeavour'd to ſupport him in the Throne, but the finding them unſervice<g ref="char:EOLhyphen"/>able to the Uniting of Proteſtants, the vin<g ref="char:EOLhyphen"/>dicating of our Laws and Liberties, and the puniſhing of thoſe who had ſubverted our Conſtitution, which as they are the only Juſtifiable Grounds, both of his coming hi<g ref="char:EOLhyphen"/>ther, and of his accepting the Royal Autho<g ref="char:EOLhyphen"/>rity; ſo nothing leſs than the purſuing hoſe Ends, can vindicate his <hi>deſcent</hi> into <hi>England</hi> from being an Unrighteous <hi>Invaſion;</hi> and his <hi>aſcending</hi> the <hi>Britiſh Ihrones,</hi> from the Re<g ref="char:EOLhyphen"/>proach of an Ambitious <hi>Uſurpation.</hi> How could a Prince of his Integrity and Wiſdom think that the obtaining and wearing of a Crown was honourable and juſt, while the Reaſons upon which he received and poſ<g ref="char:EOLhyphen"/>ſeſſeth it, were not only controuled, and reproached, but expoſed and ridiculed? Nor is it poſſible for His Majeſty to believe, that the Late King was ſo hainouſly guilty, as to forfeit all Right to Sovereignty, while thoſe who adviſed him unto, and were the <hi>Miniſters</hi> of all his <hi>miſgovernment,</hi> whom the Law makes chiefly, if not only accoun<g ref="char:EOLhyphen"/>table, were eſteemed Guiltleſs and Inno<g ref="char:EOLhyphen"/>cent. He could not but foreſee, that the <hi>Abdication</hi> of King <hi>James</hi> is eaſily Reverſi<g ref="char:EOLhyphen"/>ble, and that he himſelf holds his Crown very precariouſly, if there were nothing to juſtify the <hi>Enthroning</hi> the one, and the <hi>De<g ref="char:EOLhyphen"/>throning</hi> t'other, but the haſty and Arbi<g ref="char:EOLhyphen"/>tratious Vote of the Majority of the Two Houſes. And he muſt needs look upon all that was alledged, concerning the <hi>Late</hi> King's violating the <hi>Original Contract,</hi> and his ſubverting the Laws of the Conſtitution, as Fiction and Dream, while there were none to be found, that counſelled him un<g ref="char:EOLhyphen"/>to, or aſſiſted him in it.</p>
+            <p>And as this juſtifieth the Wiſdom of His Majeſty in the diſſolving of the <hi>late</hi> Parlia<g ref="char:EOLhyphen"/>ment, ſo we may from hence eaſily con<g ref="char:EOLhyphen"/>clude, both upon what proſpect and hope he hath been pleaſed to call a <hi>New</hi> One, and by what meaſures thoſe to whom the right of Electing Members doth belong, are to guide themſelves in the Enſuing Choice. Nor do we only want a Parlia<g ref="char:EOLhyphen"/>ment that may confirm eſtabliſh, and ſup<g ref="char:EOLhyphen"/>port His Majeſty in the Throne, but which may proceed on thoſe Principles, as does render his Acceſſion to it neceſſary, as well as honourable and juſt. And as the Na<g ref="char:EOLhyphen"/>tion is once more furniſhed with an oppor<g ref="char:EOLhyphen"/>tunity of chuſing ſuch a <hi>Repreſentative</hi> Bo<g ref="char:EOLhyphen"/>dy, as may vindicate and aſſert its Ancient Laws, Rights and Liberties; ſo there is a freſh advantage offered us, of teſtifying our Loyalty to his preſent Majeſty, and of pro<g ref="char:EOLhyphen"/>moting his Greatneſs, as well as of provi<g ref="char:EOLhyphen"/>ding for our own future ſafety. I need not tell you, that the Ends to be propoſed in the Service of thoſe who are to be Elected, are, that Your Throne may be ſetled upon firm and righteous Foundations; and that all His Majeſty's Subjects may live at eaſe and unity under His Government. 'Tis therefore <hi>firſt</hi> incumbent upon all wiſe and honeſt Men, that they elect ſuch to repre<g ref="char:EOLhyphen"/>ſent them, as may both allow and confirm unto the King all the Ancient and Legal Rights of the Crown, and yet at the ſame time recover and ſecure all thoſe Privileges unto the People, which the invading and wreſting from them, gave occaſion unto, and can alone juſtify the late Revolution. Whoſoever ſeeks to enrich the King with the Spoils of his Subjects, and ſo adorn them with what our Late Monarch raviſhed from them, can deſign no leſs, than that the ſame <hi>Fate</hi> ſhould befall him, which overtook his Predeceſſor; which is the robbing him firſt of his Peoples Affections, and then of his own Authority. 2dly, 'Tis no leſs the Du<g ref="char:EOLhyphen"/>ty, than it is the Intereſt of all that would have the Nation formidable to its Enemies, and the King ſucceſsful in his Undertakings, that they depute and authoriſe thoſe to act for them in Parliament, who without ſub<g ref="char:EOLhyphen"/>verting or undermining the Church, may not only preſerve unto Diſſenters, that Li<g ref="char:EOLhyphen"/>berty vouchſafed unto them for worſhip<g ref="char:EOLhyphen"/>ping God; but who may reſtore them un<g ref="char:EOLhyphen"/>to, and veſt them in, all the Common Rights and Privileges of <hi>Engliſhmen.</hi> Nor will it be eaſie to perſuade ſo great a Com<g ref="char:EOLhyphen"/>pany of People, that they find their account in the late Revolution, unleſs they be ad<g ref="char:EOLhyphen"/>mitted by Law to injoy the ſame Advan<g ref="char:EOLhyphen"/>tages under the preſent King, which by di<g ref="char:EOLhyphen"/>ſpencing with, and an uſurpation over the Law, they were poſſeſſed of under the laſt. 3dly, We are to eſteem them the fitteſt of all others, to be returned to ſerve in the Enſuing Parliament, who are likelieſt to maintain in our <hi>Allies</hi> a confidence of us, and to encourage them both to continue the <hi>Confederacy,</hi> and to purſue the Ends of it. And therefore as we would not give jea<g ref="char:EOLhyphen"/>louſy
+<pb facs="tcp:104331:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 21 -->
+unto them, and weaken the Union a<g ref="char:EOLhyphen"/>mongſt themſelves, and with us, we ought to avoid the chuſing of thoſe that have here<g ref="char:EOLhyphen"/>tofore promoted the Grandeur of <hi>France,</hi> or that have either ſought the Deſtruction of the <hi>Dutch,</hi> or expreſſed a malice and rancour to<g ref="char:EOLhyphen"/>wards them. 4thly, As we would not be<g ref="char:EOLhyphen"/>tray both the King and our ſelves, we are to chuſe none but ſuch who are intirely in his Majeſty's, and in the Kingdom's inte<g ref="char:EOLhyphen"/>reſt; Which as it is impoſſible to believe of them, who acknowledge him only a King in <hi>Fact,</hi> but not by <hi>Right;</hi> ſo it is not eaſie to conceive how they ſhould be forward and zealous to ſupport him in the Throne, who oppoſed his coming to it. The Enemies to King <hi>James's Abdication</hi> are not like to be true and laſting Friends to King <hi>William's Sovereignty.</hi> In ſhort, it is the duty of all that love the preſent Eſtabliſhment, to be againſt thoſe, whom you find them to be for, that refuſe to ſwear Allegiance to their pre<g ref="char:EOLhyphen"/>ſent Majeſties. Nor are they worthy of the Vote of an honeſt Man, who are not ſatiſ<g ref="char:EOLhyphen"/>fied with the Protection of the Royal Power, unleſs they have both the maſtery of it, and the exerting and applying of it to the oppreſſion of their Fellow-Subjects. 'Tis not a King, but a Tool under that name, which they deſire. And inſtead of allowing him to be the Univerſal, and Equal Ruler of all His People, they ſeek to re<g ref="char:EOLhyphen"/>duct and degrade him to be the Head of a little and Peeviſh Faction. Which that His Majeſty may be preſerved from all Tempta<g ref="char:EOLhyphen"/>tions unto, through the wiſe Choice of thoſe that are to ſit in the following Parliament, is the unfeigned deſire of,</p>
+            <closer>
+               <signed>
+                  <hi>Sir, Your humble Servant.</hi>
+                  <list>
+                     <head>Berks</head>
+                     <item>Lord <hi>Norris.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Buckingh.</head>
+                     <item>Sir <hi>Ralph V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rny.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Camb.</head>
+                     <item>Sir <hi>Levinus Bennet</hi>
+                     </item>
+                     <item>Sir <hi>Robert Cotton</hi>
+                     </item>
+                     <item>Sir <hi>Robert Sawyer.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Cornwall</head>
+                     <item>Sir <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urcher Wrey</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Roberts</hi>
+                     </item>
+                     <item>Sir <hi>John St. Aubin</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Godolphin</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Glynn</hi>
+                     </item>
+                     <item>
+                        <hi>John Tann<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Pendarvis</hi>
+                     </item>
+                     <item>
+                        <hi>James Praed</hi>
+                     </item>
+                     <item>
+                        <hi>John Raſhleigh</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Vivian</hi>
+                     </item>
+                     <item>
+                        <hi>John Specot</hi>
+                     </item>
+                     <item>Sir <hi>Joſ. Tredenham</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Seymor</hi>
+                     </item>
+                     <item>Sir <hi>John Coriton</hi>
+                     </item>
+                     <item>
+                        <hi>John Prideaux</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Cumberland.</head>
+                     <item>Sir <hi>Chriſt. Muſgrave.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Lerby</head>
+                     <item>
+                        <hi>John Coke.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Devonſhire</head>
+                     <item>Sir <hi>Edw. Seymor</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſto. Bale</hi>
+                     </item>
+                     <item>Sir <hi>John Fowell</hi>
+                     </item>
+                     <item>
+                        <hi>Rawlin Mallack</hi>
+                     </item>
+                     <item>
+                        <hi>William Cary</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Nortleigh</hi>
+                     </item>
+                     <item>Sir <hi>Arthur Chicheſter</hi>
+                     </item>
+                     <item>
+                        <hi>Edm. Walrond</hi>
+                     </item>
+                     <item>
+                        <hi>Will Hayn</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Coleman.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Dorſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhire</head>
+                     <item>
+                        <hi>Tho. Strangways</hi>
+                     </item>
+                     <item>
+                        <hi>John Pole</hi>
+                     </item>
+                     <item>Sir <hi>Robert Nappier</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Nicholas</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Fowns</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Okeden.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Durham</head>
+                     <item>
+                        <hi>Will. Lampton</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Byerly</hi>
+                     </item>
+                     <item>
+                        <hi>George Morland.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Glouceſterſhire</head>
+                     <item>
+                        <hi>Will. Cook</hi>
+                     </item>
+                     <item>
+                        <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Maſter</hi>
+                     </item>
+                     <item>Sir <hi>Fra. Ruſſell.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Herefordſhire</head>
+                     <item>
+                        <hi>Hen. Cornwall.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Huntingtonſhire</head>
+                     <item>
+                        <hi>John Bigg.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Kent</head>
+                     <item>Sir <hi>John Banks</hi>
+                     </item>
+                     <item>Sir <hi>John Twiſden</hi>
+                     </item>
+                     <item>
+                        <hi>Caleb Banks.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Lanc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhire</head>
+                     <item>
+                        <hi>Fran. Cholmondley</hi>
+                     </item>
+                     <item>Sir <hi>Edw. Chiſnall.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Leiceſterſhire</head>
+                     <item>Sir <hi>Tho. Halford</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Babington.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Lincolnſhire</head>
+                     <item>
+                        <hi>Charles Ber<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e.</hi>
+                     </item>
+                     <item>Sir <hi>John Brownlow.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Middleſex</head>
+                     <item>Sir <hi>Charles Gerard</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Hawtrey.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Monmouth</head>
+                     <item>Marq. of <hi>Worceſter.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Norfolk</head>
+                     <item>Sir <hi>Will. Cook</hi>
+                     </item>
+                     <item>Sir <hi>Nevill Catlyn</hi>
+                     </item>
+                     <item>Sir <hi>John Turner</hi>
+                     </item>
+                     <item>Sir <hi>Fran. Guybon.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Northamptonſhire</head>
+                     <item>
+                        <hi>Edw. Montague</hi>
+                     </item>
+                     <item>
+                        <hi>Gilbert Dolben</hi>
+                     </item>
+                     <item>Sir <hi>Juſtinian Iſham</hi>
+                     </item>
+                     <item>Lord <hi>Wenman.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Northumberland</head>
+                     <item>
+                        <hi>Will. Forſter</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Brickerſtaff</hi>
+                     </item>
+                     <item>Sir <hi>Ralph Car</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Fenwick.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Nottingham</head>
+                     <item>Lord <hi>Eland.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Oxon</head>
+                     <item>Sir <hi>Robert Jenkinſon</hi>
+                     </item>
+                     <item>Sir <hi>Tho Clarges</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Berty</hi>
+                     </item>
+                     <item>Sir <hi>Jon Doyley.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Rutland</head>
+                     <item>Sir <hi>Tho. Mackworth.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Salop</head>
+                     <item>
+                        <hi>Edw. Kynaſton</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Newport</hi>
+                     </item>
+                     <item>Sir <hi>Fran. Edwards</hi>
+                     </item>
+                     <item>Sir <hi>Edw. Acton</hi>
+                     </item>
+                     <item>
+                        <hi>George Weld.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Somerſet</head>
+                     <item>Sir <hi>Rich. Hart</hi>
+                     </item>
+                     <item>Sir <hi>John Knight</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Berkley</hi>
+                     </item>
+                     <item>Sir <hi>Will. Baſſet</hi>
+                     </item>
+                     <item>Sir <hi>Will. Portman</hi>
+                     </item>
+                     <item>
+                        <hi>John Sandford</hi>
+                     </item>
+                     <item>Sir <hi>Francis Warr</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Lutterel</hi>
+                     </item>
+                     <item>
+                        <hi>Nathan. Palmer</hi>
+                     </item>
+                     <item>Sir <hi>Edw. Windham</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Helyar</hi>
+                     </item>
+                     <item>
+                        <hi>John Hunt</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sanders.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Southampton.</head>
+                     <item>
+                        <hi>Franc. Morley</hi>
+                     </item>
+                     <item>Sir <hi>Benj. Newland</hi>
+                     </item>
+                     <item>Sir <hi>Robert Holms</hi>
+                     </item>
+                     <item>Earl of <hi>Ranelagh</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Done</hi>
+                     </item>
+                     <item>
+                        <hi>Franc. Guin</hi>
+                     </item>
+                     <item>
+                        <hi>William Etrick</hi>
+                     </item>
+                     <item>
+                        <hi>John Pollen.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Staffordſhire.</head>
+                     <item>
+                        <hi>John Gray</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Burdet</hi>
+                     </item>
+                     <item>
+                        <hi>John Chetwind</hi>
+                     </item>
+                     <item>Sir <hi>Henry Gough.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Suffolk.</head>
+                     <item>Sir <hi>John Cordell</hi>
+                     </item>
+                     <item>Sir <hi>John Rous</hi>
+                     </item>
+                     <item>Sir <hi>John Barker</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Glemham</hi>
+                     </item>
+                     <item>Sir <hi>Hen. Johnſon</hi>
+                     </item>
+                     <item>
+                        <hi>William Johnſon</hi>
+                     </item>
+                     <item>Sir <hi>John Poley</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Knyvet</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Pooley</hi>
+                     </item>
+                     <item>Sir <hi>Robert Davers</hi>
+                     </item>
+                     <item>Sir <hi>Thomas Harvey.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Surry.</head>
+                     <item>
+                        <hi>John Weſton</hi>
+                     </item>
+                     <item>
+                        <hi>White Tichburn.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Suſſex.</head>
+                     <item>Sir <hi>William Morley</hi>
+                     </item>
+                     <item>
+                        <hi>John Alford</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Goring</hi> Jun.</item>
+                     <item>
+                        <hi>Will. Morley.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Warwickſhire.</head>
+                     <item>Sir <hi>Richard Verney</hi>
+                     </item>
+                     <item>Sir <hi>Roger Cav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Lord <hi>Digby</hi>
+                     </item>
+                     <item>
+                        <hi>William Colemore.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Weſtmorland.</head>
+                     <item>
+                        <hi>Richard Lowther</hi>
+                     </item>
+                     <item>
+                        <hi>William Cheyne</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Wiltſhire.</head>
+                     <item>Lord <hi>Cornbury</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Hyde.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Peregrine Berty</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Chivers</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Grubb</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Fox</hi>
+                     </item>
+                     <item>Sir <hi>Edm. Warnford</hi>
+                     </item>
+                     <item>
+                        <hi>John Dean</hi>
+                     </item>
+                     <item>Sir <hi>John E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nle</hi>
+                     </item>
+                     <item>Sir <hi>George Willoughby.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Worceſtſhire</head>
+                     <item>
+                        <hi>Henry Parker</hi>
+                     </item>
+                     <item>Sir <hi>John Matthews.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Yorkſhire</head>
+                     <item>Earl of <hi>Danby</hi>
+                     </item>
+                     <item>Sir <hi>John Jennings</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Tancred.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Brecon.</head>
+                     <item>
+                        <hi>E. Jones</hi> of <hi>Buckland.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Denby</head>
+                     <item>Sir <hi>Rich. Middleton</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Breh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Glamorgan</head>
+                     <item>
+                        <hi>Thomas Manſell</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Pembroke</head>
+                     <item>Sir <hi>William W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gan.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
